@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49842374248",
+    "project_id": "denny-cknan-full-album-svenday",
+    "storage_bucket": "denny-cknan-full-album-svenday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49842374248:android:41e5fa65d58c725b0a9ddd",
+        "android_client_info": {
+          "package_name": "com.svendaydev.dennycaknanmp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49842374248-8kcgks27hu4g51npis1ucmigcugeedaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC3MX-Jl6ozzQJ25irK60eqggr4yUR8Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49842374248-8kcgks27hu4g51npis1ucmigcugeedaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
